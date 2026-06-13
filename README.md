@@ -1,5 +1,9 @@
 # LLM Evaluation Dataset
 
+## Dataset Preview
+
+![Dataset Preview](screenshots/Dataset%20Preview.jpg)
+
 A curated dataset of 60 examples across:
 - Factual Q&A
 - Instruction Following
