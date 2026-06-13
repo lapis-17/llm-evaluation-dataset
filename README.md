@@ -19,3 +19,22 @@ Each example contains:
 
 Purpose:
 Demonstrate AI evaluation, response ranking, and annotation skills commonly used in AI Trainer and AI Rater workflows.
+
+## Dataset Statistics
+
+- Total Examples: 60
+- Categories: 4
+- Factual Q&A: 15
+- Instruction Following: 15
+- Coding: 15
+- Reasoning: 15
+
+## Evaluation Criteria
+
+Responses were evaluated using:
+
+- Accuracy
+- Completeness
+- Clarity
+- Instruction Adherence
+- Hallucination Risk
